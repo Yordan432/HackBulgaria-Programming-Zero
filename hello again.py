@@ -1,2 +1,3 @@
-hello again
-hello again py
+print('hello again');
+print('hello again py');
+
